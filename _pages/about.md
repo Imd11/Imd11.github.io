@@ -12,7 +12,7 @@ I'm a second year graduate student from [School of Statistics](https://stat.tjuf
 
 I am very fortunate to be advised by [Prof. Qu](https://byelenin.github.io/) of Population Research Institute from [Business School](https://stat.tjufe.edu.cn/), Nanjing University. I was advised by [Prof. Cao](https://stat.tjufe.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1076&wbnewsid=1053) from [School of Statistics](https://stat.tjufe.edu.cn/), Tianjin University of Finance and Economics.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yang's Curriculum Vitae](../assets/cv.pdf).
 
 [Email](mailto:y_jinhang@stu.tjufe.edu.cn) / [Github](https://github.com/Imd11) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
