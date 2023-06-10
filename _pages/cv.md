@@ -12,7 +12,7 @@ redirect_from:
 
 硕士成绩单
 ======
-[硕士成绩单](../assets/Master_transcript.pdf)
+[硕士成绩单](../assets/master_transcript.pdf)
 
 本科成绩单
 ======
