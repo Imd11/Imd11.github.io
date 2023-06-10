@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "本科经历"
-permalink: /cv/
+permalink: /benke/
 author_profile: true
 redirect_from:
   - /resume
