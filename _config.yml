@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinhang Yang"
+title                    : "Jinhang Yang/杨锦航"
 title_separator          : "-"
 name                     : &name "Jinhang Yang"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinhang Yang(杨锦航)"
+  name             : "Jinhang Yang"
   avatar           : "profile.png"
   bio              : "a student"
   location         : "China Tianjin"
