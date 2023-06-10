@@ -4,7 +4,7 @@ main:
     url: /期刊论文/
 
   - title: "会议论文"
-    url: /talks/    
+    url: /会议论文/    
     
   - title: "GPA"
     url: /cv/ 
