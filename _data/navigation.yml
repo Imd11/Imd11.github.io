@@ -5,11 +5,12 @@ main:
 
   - title: "会议论文"
     url: /talks/    
-
-  - title: "GPA"
-    url: /cv/ 
     
   - title: "本科经历"
     url: /teaching/ 
+    
+  - title: "GPA"
+    url: /cv/ 
+
     
 
