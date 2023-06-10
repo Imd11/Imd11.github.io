@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "GPA"
-permalink: /cv/
+permalink: /GPA/
 author_profile: true
 redirect_from:
   - /resume
