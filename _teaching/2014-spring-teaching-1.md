@@ -1,12 +1,11 @@
 ---
-title: "1"
+title: "本科经历"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "2017-2021"
-date: 2017-06-21
-location: "City, Country"
----
+date: 2017-2021
+
 
 
 
