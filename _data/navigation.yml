@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "期刊论文"
-    url: /publications/
+    url: /期刊论文/
 
   - title: "会议论文"
     url: /talks/    
