@@ -5,9 +5,7 @@ main:
 
   - title: "会议论文"
     url: /talks/    
-    
-  - title: "本科经历"
-    url: /本科经历/ 
+
     
   - title: "GPA"
     url: /cv/ 
