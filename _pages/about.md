@@ -19,6 +19,9 @@ You can find my CV here: [Yang's Curriculum Vitae](../assets/cv.pdf).
 
 最近动态
 ======
+**2023年6月**
+
+好消息！新的研究之路。从今年6月起，我将作为兼职研究助理(RA)，受聘于南京邮电大学的孙转兰老师。
 
 **2023年5月**
 
